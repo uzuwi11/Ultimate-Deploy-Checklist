@@ -32,3 +32,7 @@ Hardening:
 DNS Over HTTPS/TLS
 Shared storage -> ClamAV
 Logwatch
+
+
+
+minimal linux: reduce attack surface: void Linux
